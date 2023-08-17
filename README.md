@@ -9,8 +9,8 @@ Soy Victor Scott. Me gusta programar y naci en Barranquilla, Colombia donde vivo
 ## Habilidades
 
 - ### Lenguajes:
-  [Python, Lua +, PSEInt],
+  Python, Lua +, PSEInt,
 - ### Herramientas:
-  [VisualStudioCode, Roblox Studio, PSEInt]
+  VisualStudioCode, Roblox Studio, PSEInt
 ## Contacto
 - [@vesm2410](./) en Discord
