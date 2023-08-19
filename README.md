@@ -11,7 +11,7 @@ Soy Victor Scott. Me gusta programar y naci en Barranquilla, Colombia donde vivo
 - ### Lenguajes:
 Python, Lua +
 - ### Herramientas:
-  VisualStudioCode, Roblox Studio, PSEInt
+  VisualStudioCode, Roblox Studio
 - ### Hablo:
   English, Español, un poco de François
 ## Contacto
