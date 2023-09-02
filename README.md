@@ -16,4 +16,4 @@ Soy Victor Scott. Me gusta programar y naci en Barranquilla, Colombia donde vivo
 - ### Hablo:
   English, Español, un poco de François
 ## Contacto
-- [@vesm2410](./) en Discord
+- [@vesm2410](discordapp.com/users/747464175814574240) en Discord
