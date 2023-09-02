@@ -1,4 +1,4 @@
-
+[d](discordapp.com/users/747464175814574240)
 ## Hey! 👋
 Soy Victor Scott. Me gusta programar y naci en Barranquilla, Colombia donde vivo actualmente.
 
@@ -16,4 +16,4 @@ Soy Victor Scott. Me gusta programar y naci en Barranquilla, Colombia donde vivo
 - ### Hablo:
   English, Español, un poco de François
 ## Contacto
-- [yo](discordapp.com/users/747464175814574240) en Discord
+- [yo]() en Discord
