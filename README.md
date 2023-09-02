@@ -1,6 +1,6 @@
 ## Hey! 👋
 Soy Victor Scott. Me gusta programar y naci en Barranquilla, Colombia donde vivo actualmente.
-- [d](https://www.discordapp.com/users/747464175814574240)
+
 - 👨‍💻 Estoy aprendiendo a programar en [STEAM Academy](https://www.instagram.com/steamacademy.co/) 
 
 - 🏫 Estudio en el colegio [British International School BIS](https://britishschool.edu.co/)
@@ -15,4 +15,4 @@ Soy Victor Scott. Me gusta programar y naci en Barranquilla, Colombia donde vivo
 - ### Hablo:
   English, Español, un poco de François
 ## Contacto
-- [yo]() en Discord
+- [vesm2410](https://www.discordapp.com/users/747464175814574240) en Discord
